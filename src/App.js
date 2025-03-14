@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="Container">
       <header>
-        <h1>나의 포트폴리오</h1>
+        <h1>🚀 자동 배포 테스트 성공! 🚀</h1>
       </header>
       <section className="about">
         <h2>👋 소개</h2>
